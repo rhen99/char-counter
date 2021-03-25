@@ -1,0 +1,11 @@
+.Counter {
+  padding: 2rem 0;
+}
+.CounterText {
+  text-align: center;
+}
+.Count {
+  font-weight: 700;
+  font-size: 50px;
+  color: #589636;
+}
